@@ -1,0 +1,10 @@
+
+@import "bulma/css/bulma.css";
+
+.container{
+    margin-top: 5em;
+}
+
+#btn,#input,.i{
+    width: 90%;
+}
